@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://camo.githubusercontent.com/85add4a9633786947f86fe4e86eb5aca6b190ff47345434755a0d98f488fefa7/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" alt="Animation" width="1000"/>
+</div>
+
+
 # 💫 About Me:
 Hi there, I'm Mohamed Ramzi_Bouchbita 👋<br><br>🎓 Master Student in Artificial Intelligence<br>💻 Passionate about **Web Development & AI**  <br>🚀 Skilled in **HTML | CSS | JavaScript | React | Node.js**  <br>🛠️ Familiar with **VS Code | Git | PostgreSQL**  <br>
 
